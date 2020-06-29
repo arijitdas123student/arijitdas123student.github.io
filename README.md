@@ -1,6 +1,4 @@
 # Hello There!
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +6,7 @@
 </head>
 <body bgcolor="White">
 <h1><b>Welcome to CoronaSecure ! </b></h1>
-<p><b><h2>Sign Up</b></p></h2>
+    <p><h2>Sign Up</p></h2>
     <p>Please fill in this form to create an account for CoronaSecure.</p>
 
     <label for="email"><b>Email</b></label>
