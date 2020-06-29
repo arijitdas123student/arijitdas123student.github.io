@@ -24,7 +24,7 @@
       <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
     </label>
 
-<p>By creating an account you agree to our <a href="terms&privacy.html" style="color:dodgerblue">Terms & Privacy</a>.</p>
+<p>By creating an account you agree to our <a href="https://github.com/arijitdas123student/arijitdas123student.github.io/blob/master/terms&privacy.html" style="color:dodgerblue">Terms & Privacy</a>.</p>
 
 
       <button type="button" class="cancelbtn">Cancel</button>
