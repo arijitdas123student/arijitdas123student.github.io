@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to CoronaSecure</title>
+    <title>Welcome to my website.</title>
 </head>
 <body bgcolor="White">
-<h1><b>Welcome to CoronaSecure ! </b></h1>
+<h1><b>This is me Arijit , and I'm gonna tell you about my journey! </b></h1>
     <p><h2>Sign Up</h2>
     <p>Please fill in this form to create an account for CoronaSecure.</p>
 
