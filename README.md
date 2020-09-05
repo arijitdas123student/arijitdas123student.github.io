@@ -3,12 +3,12 @@
 <h3 align="center">A 14 year old student, spends his time making project prototypes based on IoT, Machine Learning and Deep Learning at the edge</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" /> </p>
 
-- 🔭 I’m currently working on **<a href="http://spectrium.ml">www.spectrium.ml**<a>
+- 🔭 I’m currently working on <a href="http://spectrium.ml">www.spectrium.ml<a>
 - 🌱 I’m currently learning **TinyML , Machine learning & Deep learning algorithms for edge devices**
 - 👯 I’m looking to collaborate on **making projects for social good**
 - 🤔 I’m looking for help with **TinyML** projects 
 - 💬 Ask me about **Arduino , Raspberry Pi or IoT** 
-- 📫 How to reach me: **<a href="mailto:arijitdas18022006@gmail.com">Mail me for instant response<a>**
+- 📫 How to reach me: <a href="mailto:arijitdas18022006@gmail.com">Mail me for instant response<a>
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact: **he's a good cricketer & wonderful guitarist**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitdas123student&layout=compact&hide=html%22%20alt=%22arijitdas123student" /></p>
