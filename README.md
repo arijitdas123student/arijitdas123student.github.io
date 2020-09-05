@@ -1,11 +1,22 @@
 # Hello There!
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Welcome to my website.</title>
-</head>
-<body bgcolor="White">
-<h1><b>This is me Arijit , and I'm gonna tell you about my journey! </b></h1>
-    <h2>WEBSITE IS UNDER DEVELOPMENT<h2>
-        <a href="mailto:arijitdas18022006@gmail.com">Let's Chat</a>
-<a href="https://www.linkedin.com/in/arijit-das-iot/">Let's Connect via LinkedIn</a><br>
+<h1 align="center">Hello, I'm Arijit Das</h1>
+<h3 align="center">A 14 year old student, spends his time making project prototypes based on IoT, Machine Learning and Deep Learning at the edge</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" /> </p>
+
+- 🔭 I’m currently working on **www.spectrium.ml**
+- 🌱 I’m currently learning **TinyML , Machine learning & Deep learning algorithms for edge devices**
+- 👯 I’m looking to collaborate on **making projects for social good**
+- 🤔 I’m looking for help with **TinyML** projects 
+- 💬 Ask me about **Arduino , Raspberry Pi or IoT** 
+- 📫 How to reach me: **arijitdas18022006@gmail.com**
+- 😄 Pronouns: *he/him*
+- ⚡ Fun fact: **he's a good cricketer & wonderful guitarist**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitdas123student&layout=compact&hide=html%22%20alt=%22arijitdas123student" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdas123student&show_icons=true%22%20alt=%22arijitdas123student" /></p>
+
+<p align="center">
+
+<a href="https://twitter.com/Arijit_Student" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arijit_Student" height="30" width="30" /></a>
+<a href="https://www.hackster.io/arijit_das_student" target="blank"><img align="center" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1503551685/una2tszjsh3dicb1vdeh.png" alt="arijit_das_student" height="30" width="30" /></a>
+</p>
