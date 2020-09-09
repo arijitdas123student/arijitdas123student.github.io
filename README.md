@@ -1,4 +1,3 @@
-# Hello There!
 <h1 align="center">Hello, I'm Arijit Das</h1>
 <h3 align="center">A 14 year old student, spends his time making project prototypes based on IoT, Machine Learning and Deep Learning at the edge</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" /> </p>
@@ -19,4 +18,6 @@
 
 <a href="https://twitter.com/Arijit_Student" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arijit_Student" height="30" width="30" /></a>
 <a href="https://www.hackster.io/arijit_das_student" target="blank"><img align="center" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1503551685/una2tszjsh3dicb1vdeh.png" alt="arijit_das_student" height="30" width="30" /></a>
+<a href="https://www.electromaker.io/profile/arijit-das" target="blank"><img align="center" src="https://www.electromaker.io/images/icons/logo-square.png" alt="arijit-das" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCqJhvi5xE2sRV8zCcy1PhLw" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="arijit-das" height="30" width="30" /></a>
 </p>
