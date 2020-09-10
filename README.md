@@ -21,3 +21,13 @@
 <a href="https://www.electromaker.io/profile/arijit-das" target="blank"><img align="center" src="https://www.electromaker.io/images/icons/logo-square.png" alt="arijit-das" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCqJhvi5xE2sRV8zCcy1PhLw" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="arijit-das" height="30" width="30" /></a>
 </p>
+<p><h2>Memorable Comments</h2>
+<h4>"...Young. Bright. And Enginerd. The future is forward❤️..."<h4>
+                   &nbsp;- Adam Benzion , Co-Founder of Hackster.io(Acquired by AVNET)<br>
+<h4>"...You are an all star!..."<h4>
+                   &nbsp;- Robert Wolff , Ecosystem Developer Evangelist - Arm <br>
+<h4>"...He proves that one's never too young to make a difference. #TechForGood #AI4Good..."<h4>
+                   &nbsp;- Intel (India) official team <br>
+<h4>"...you are a power-packed engineer..."<h4>
+                   &nbsp;- Ajeet Singh Raina , Docker Captain & Arm Innovator <br>
+  </p>
