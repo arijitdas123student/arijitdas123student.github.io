@@ -33,9 +33,7 @@
                    &nbsp;- Intel (India) Team <br>
 "You are a power-packed engineer"<br>
                    &nbsp;- Ajeet Singh Raina , Developer Advocate - Redis Labs, Docker Captain & Arm Innovator <br>
- <h4>"This developer is only 14 and killing it with deep topics"<h4>
+"This developer is only 14 and killing it with deep topics"<br>
                    &nbsp;- Moheeb Zara , Developer Advocate - Soracom <br>
-  
 "In a few years people will be writing excitedly that Arijit has followed them!"<br>
                    &nbsp;- Daniel Situnayake , Founding TinyML Engineer - Edge Impulse <br>
-
