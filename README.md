@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Arijit Das</h1>
+<h1 align="center">Hello, I'm Arijit!👋</h1>
 <h3 align="center">Arijit is a 15-year-old from India. He loves to play with AI on hardware. He has been into IoT and AI since 2017. Currently he is an Ambassador at Edge Impulse and creates wholesome content for the team and also shares his thought in lots of good talks. He leads the TinyML Aspirants Community, which is amongst the biggest Machine Learning communities in Asia. In his free time he is usually found to play his Spanish Guitar and making EDM songs!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" /> </p>
 
@@ -24,7 +24,7 @@
 <a href="https://www.electromaker.io/profile/arijit-das" target="blank"><img align="center" src="https://www.electromaker.io/images/icons/logo-square.png" alt="arijit-das" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCqJhvi5xE2sRV8zCcy1PhLw" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="arijit-das" height="30" width="30" /></a>
 </p>
-<p><h2>Memorable Comments</h2>
+<p><h2>Memorable Comments👇</h2>
 "Young. Bright. And Enginerd. The future is forward❤️"<br>
                    &nbsp;- Adam Benzion , Co-Founder of Hackster.io and CxO at Edge Impulse<br>
 "You are an all star!"<br>
@@ -37,3 +37,6 @@
                    &nbsp;- Moheeb Zara , Developer Advocate - Soracom <br>
 "In a few years people will be writing excitedly that Arijit has followed them!"<br>
                    &nbsp;- Daniel Situnayake , Founding TinyML Engineer - Edge Impulse <br>
+
+<p><h2>Open-Sourced projects👇</h2>
+<a href="https://arijitdas.me/agriai-v2-wasm> AgriAI V2 </a>
