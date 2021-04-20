@@ -39,4 +39,8 @@
                    &nbsp;- Daniel Situnayake , Founding TinyML Engineer - Edge Impulse <br>
 
 <p><h2>Open-Sourced projects👇</h2>
-<a href="https://arijitdas.me/agriai-v2-wasm> AgriAI V2 </a>
+<a href="https://arijitdas.me/agriai-v2-wasm"> AgriAI V2 </a><br>
+<a href="https://bit.ly/projectAgriAI">AgriAI </a><br>
+<a href="https://www.electronicsforu.com/electronics-projects/coronasecure-covid-19-health-band">CoronaSecure:The COVID-19 Health Band</a><br>
+<a href="https://www.hackster.io/arijit_das_student/uidss-unique-identification-security-system-545f5b">UIDSS</a><br>
+<a href="https://www.hackster.io/arijit_das_student/pneumonia-classification-detection-using-edgeml-991e18">Pnuemonia Detection using EdgeML</a><br>
